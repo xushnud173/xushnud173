@@ -1,0 +1,3 @@
+/Users/x.ochilov/CLionProjects/xushnud173/cmake-build-debug/CMakeFiles/xushnud173.dir
+/Users/x.ochilov/CLionProjects/xushnud173/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/x.ochilov/CLionProjects/xushnud173/cmake-build-debug/CMakeFiles/rebuild_cache.dir
